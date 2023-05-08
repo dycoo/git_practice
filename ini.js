@@ -1,5 +1,3 @@
 //this is the fist line for Git
 
-console.log('V1.0.1');
-console.log('V1.0.2');
-console.log('rename');
+console.log('line for V.1.0.2');
