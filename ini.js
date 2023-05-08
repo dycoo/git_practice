@@ -1,3 +1,4 @@
 //this is the fist line for Git
 
-console.log('V2');
+console.log('V1.0.1');
+console.log('V1.0.2');
